@@ -2,6 +2,7 @@
 title: "Arrivals Checklist"
 ---
 
+<head>
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-4JDBPM7CZ4"></script>
 <script>
@@ -11,6 +12,7 @@ title: "Arrivals Checklist"
 
   gtag('config', 'G-4JDBPM7CZ4');
 </script>
+</head>
 
 ## Before
 
