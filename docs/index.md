@@ -20,7 +20,7 @@ title: "Arrivals Checklist"
 * [ ] make sure all the essentials are OK
 * [ ] send welcome messaage with instructuctions
 * [ ] (optional) add info for any event happening right now in the city
-* [ ] (if necessary) ask someone to deliver the keys if you cannot and message the guests
+* [ ] (if necessary) ask someone to deliver the keys if you cannot hand yourself and message the guests
 * [ ] put some water in the fridge
 * [ ] (if necessary) ask guests to send pictures of documents for registration
 
