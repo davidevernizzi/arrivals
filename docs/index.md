@@ -1,4 +1,4 @@
-# Arrivals checklis
+# Arrivals checklist
 
 ## Before
 
