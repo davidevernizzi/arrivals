@@ -13,7 +13,7 @@ author: "XXXXXXXXXXX"
   gtag('config', 'G-4JDBPM7CZ4');
 </script>
 
-# Arrivals checklist
+# Arrivals Checklist
 
 ## Before
 
