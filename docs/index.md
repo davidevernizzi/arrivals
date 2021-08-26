@@ -1,6 +1,5 @@
 ---
-title: "XXXXXXXXXX"
-author: "XXXXXXXXXXX"
+title: "Arrivals Checklist"
 ---
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
@@ -12,8 +11,6 @@ author: "XXXXXXXXXXX"
 
   gtag('config', 'G-4JDBPM7CZ4');
 </script>
-
-# Arrivals Checklist
 
 ## Before
 
