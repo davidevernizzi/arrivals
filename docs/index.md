@@ -1,4 +1,7 @@
-<!--html_preserve-->
+---
+title: "XXXXXXXXXX"
+author: "XXXXXXXXXXX"
+---
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-4JDBPM7CZ4"></script>
@@ -9,9 +12,6 @@
 
   gtag('config', 'G-4JDBPM7CZ4');
 </script>
-
-<!--/html_preserve-->
-
 
 # Arrivals checklist
 
