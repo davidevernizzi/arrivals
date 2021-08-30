@@ -18,17 +18,29 @@ title: "Arrivals Checklist"
 
 * [ ] clean the property (even if it's already clean)
 * [ ] make sure all the essentials are OK
-* [ ] send welcome messaage with instructuctions
+  * [ ] toilet paper
+  * [ ] bath essentials (hand soap, body soap, shampoo, extra, hair conditioner)
+  * [ ] towels (1 hand + 1 shower per guest)
+  * [ ] kitchen essentials (sugar, salt)
+  * [ ] breakfast essentials (coffee, tea)
+* [ ] send welcome message with instructuctions
 * [ ] (optional) add info for any event happening right now in the city
+* [ ] get the keys ready
 * [ ] (if necessary) ask someone to deliver the keys if you cannot hand yourself and message the guests
-* [ ] put some water in the fridge
 * [ ] (if necessary) ask guests to send pictures of documents for registration
+
+## On the arrival day
+
+* [ ] put some water in the fridge
+* [ ] greet the guests and hand the keys
 
 ## During
 
-* [ ] greet the guests and hand the keys
 * [ ] (if necessary) register guests with local authorities
 * [ ] if the guests stay for a long time, send a message after a few days
+
+## On the leaving day
+
 * [ ] collect the keys
 
 ## After
