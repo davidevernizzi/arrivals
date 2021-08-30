@@ -17,7 +17,7 @@ title: "Arrivals Checklist"
 ## Before
 
 * [ ] clean the property (even if it's already clean)
-* [ ] make sure all the essentials are OK
+* [ ] make sure all the [essentials](/essentials) are OK
   * [ ] toilet paper
   * [ ] bath essentials (hand soap, body soap, shampoo, extra, hair conditioner)
   * [ ] towels (1 hand + 1 shower per guest)
