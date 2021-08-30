@@ -18,11 +18,6 @@ title: "Arrivals Checklist"
 
 * [ ] clean the property (even if it's already clean)
 * [ ] make sure all the [essentials](/essentials) are OK
-  * [ ] toilet paper
-  * [ ] bath essentials (hand soap, body soap, shampoo, extra, hair conditioner)
-  * [ ] towels (1 hand + 1 shower per guest)
-  * [ ] kitchen essentials (sugar, salt)
-  * [ ] breakfast essentials (coffee, tea)
 * [ ] send welcome message with instructuctions
 * [ ] (optional) add info for any event happening right now in the city
 * [ ] get the keys ready
